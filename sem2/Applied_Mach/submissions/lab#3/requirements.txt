@@ -1,0 +1,11 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+gensim=3.8.3
+numpy=1.19.2
+pandas=1.2.0
+tensorboard=2.4.0
+tensorboard-plugin-wit=1.6.0
+tensorflow=2.4.0
+tensorflow-base=2.3.0
+tensorflow-estimator=2.4.0
